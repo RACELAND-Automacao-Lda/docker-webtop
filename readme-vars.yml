@@ -29,6 +29,8 @@ development_versions_items:
   - { tag: "ubuntu-openbox", desc: "Openbox Ubuntu" }
   - { tag: "alpine-icewm", desc: "IceWM Alpine" }
   - { tag: "ubuntu-icewm", desc: "IceWM Ubuntu" }
+  - { tag: "alpine-awesome", desc: "awesome Alpine" }
+  - { tag: "ubuntu-awesome", desc: "awesome Ubuntu" }
 
 # container parameters
 privileged: "optional"
